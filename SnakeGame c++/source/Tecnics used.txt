@@ -1,0 +1,17 @@
+Techniques used:
+
+Reading and writing to files;
+
+Creation of the "score" class to establish the profile of each player;
+
+Utilization of Pdcurses to create various game environments;
+
+Implementation of the "border" class to create and print the game field, as well as to check snake collisions;
+
+Implementation of the "food" class to create and print fruits, with each consumed fruit increasing the score;
+
+Composition between the "snake" class and the "listsnake" class, where the "snake" class creates each part of the snake, and the "listsnake" class assembles them to create the complete snake;
+
+Overloading of the > operator and template of the compare function to organize the results list;
+
+Implementation of the "wall" class to create and print obstacles and check collisions.

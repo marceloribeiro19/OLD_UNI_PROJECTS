@@ -1,0 +1,6 @@
+﻿  projetoatc.cpp
+C:\Users\marce\Desktop\UM\2ºano\1ºsemestre\Arquitetura e Tecnologia de computadors I\trabalho final\projetoatc\projetoatc\projetoatc.cpp(259,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\marce\Desktop\UM\2ºano\1ºsemestre\Arquitetura e Tecnologia de computadors I\trabalho final\projetoatc\projetoatc\projetoatc.cpp(353,9): warning C4101: 'p': variável local não referenciada
+C:\Users\marce\Desktop\UM\2ºano\1ºsemestre\Arquitetura e Tecnologia de computadors I\trabalho final\projetoatc\projetoatc\projetoatc.cpp(187): warning C4715: 'walls::collisionwalls': nem todos os caminhos de controle retornam um valor
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  projetoatc.vcxproj -> C:\Users\marce\Desktop\UM\2ºano\1ºsemestre\Arquitetura e Tecnologia de computadors I\trabalho final\projetoatc\Debug\projetoatc.exe
