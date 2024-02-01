@@ -1,0 +1,3 @@
+".\Objects\tp3micro8.obj" 
+TO ".\Objects\tp3micro8" 
+PRINT(".\Listings\tp3micro8.m51") RAMSIZE(256) 
